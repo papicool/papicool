@@ -8,7 +8,7 @@
 
 <br />
 
-hi, i'm Papa Moussa FALL, a passionate self-taught Cloud and a Platform and DevOps Engineer from Senegal. I take great care in the experience, architecture, robust, scalable, easily maintainable and code quality of the things I build. 
+hi, i'm Papa Moussa FALL, a passionate self-taught Cloud and a Platform & DevOps Engineer from Senegal. I take great care in the experience, architecture, robust, scalable, easily maintainable and code quality of the things I build. 
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
