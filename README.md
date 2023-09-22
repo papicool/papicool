@@ -1,5 +1,3 @@
-### hey there 
-
 <a href="https://www.linkedin.com/in/papa-moussa-fall-641265106/">
   <img align="left" alt="Papa Moussa FALL's LinkedIN" width="22px" src="icons8-linkedin-48.png" />
 </a>
