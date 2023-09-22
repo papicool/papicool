@@ -1,7 +1,7 @@
 ### hey there 
 
 <a href="https://www.linkedin.com/in/papa-moussa-fall-641265106/">
-  <img align="left" alt="Papa Moussa FALL's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Papa Moussa FALL's LinkedIN" width="22px" src="https://icones8.fr/icon/13930/linkedin" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=pmf)
