@@ -2,8 +2,6 @@
   <img align="left" alt="Papa Moussa FALL's LinkedIN" width="22px" src="icons8-linkedin-48.png" />
 </a>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=pmf)
-
 <br />
 
 hi, i'm Papa Moussa FALL, a passionate self-taught Cloud and a Platform & DevOps Engineer from Senegal. I take great care in the experience, architecture, robust, scalable, easily maintainable and code quality of the things I build. 
