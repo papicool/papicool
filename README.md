@@ -2,7 +2,7 @@
   <img align="left" alt="Papa Moussa FALL's LinkedIN" width="22px" src="icons8-linkedin-48.png" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=pmf)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=pmf)
 
 <br />
 
